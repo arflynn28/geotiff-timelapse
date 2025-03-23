@@ -1,3 +1,3 @@
 # 🛰️ GeoTIFF Time Series to Timelapse GIF  
 
-This script **crops** multiple **GeoTIFF images**, converts them to **RGB PNGs**, and generates a **timelapse GIF**.  
+This repository contains a Python script that processes GeoTIFF time series imagery, crops all images based on the smallest file in the dataset, converts them to 8-bit RGB format, and generates an animated GIF to visualize changes over time. 
