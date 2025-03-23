@@ -1,0 +1,5 @@
+You'll need the following Python libraries:
+- Rasterio – Reading and processing GeoTIFF files
+- Imageio – Saving images and generating GIFs
+- NumPy – Efficient array operations
+- Matplotlib (optional) – Visualization
