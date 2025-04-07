@@ -11,3 +11,6 @@ This repository contains a Python script that processes GeoTIFF time series imag
   - Convert each to 8-bit RGB
   - Saves the cropped images to the cropped_images directory
   - Generates a GIF of the timeseries with the cropped images
+
+## Notes
+Process may suffer from issues.
